@@ -12,5 +12,6 @@ dependencies = [
     "langchain-openai>=1.1.11",
     "langgraph>=1.1.2",
     "langgraph-checkpoint-postgres>=3.0.4",
+    "openai-whisper>=20250625",
     "python-dotenv>=1.2.2",
 ]
